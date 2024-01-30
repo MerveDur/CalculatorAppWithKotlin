@@ -17,7 +17,7 @@ Bu uygulamayı kullanmak için:
 
 ## Ekran Görüntüleri
 
-![Hesap Makinesi](AddPhoto/calApp.png)
+![Hesap Makinesi](CalculatorAppWithKotlin/AppPhoto/calApp.png)
 
 ## Teknolojiler
 
