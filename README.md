@@ -17,7 +17,7 @@ Bu uygulamayı kullanmak için:
 
 ## Ekran Görüntüleri
 
-![Hesap Makinesi](https://github.com/MerveDur/CalculatorAppWithKotlin/blob/main/AppPhoto/calApp.png)
+![Hesap Makinesi](https://github.com/MerveDur/CalculatorAppWithKotlin/blob/main/AppPhoto/runApp.png)
 
 ## Teknolojiler
 
