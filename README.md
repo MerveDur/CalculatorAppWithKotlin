@@ -17,7 +17,7 @@ Bu uygulamayı kullanmak için:
 
 ## Ekran Görüntüleri
 
-![Hesap Makinesi](path/to/your/screenshot.jpg)
+![Hesap Makinesi](AddPhoto/calApp.png)
 
 ## Teknolojiler
 
